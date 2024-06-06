@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Candidatura/Candidatura.iml" filepath="$PROJECT_DIR$/Candidatura/Candidatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Controle-fluxo/Controle-fluxo.iml" filepath="$PROJECT_DIR$/Controle-fluxo/Controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DIO-CURSO-JAVA.iml" filepath="$PROJECT_DIR$/DIO-CURSO-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" />
     </modules>
   </component>
 </project>
