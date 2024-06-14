@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Controle-fluxo/Controle-fluxo.iml" filepath="$PROJECT_DIR$/Controle-fluxo/Controle-fluxo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DIO-CURSO-JAVA.iml" filepath="$PROJECT_DIR$/DIO-CURSO-JAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" filepath="$PROJECT_DIR$/Desafios/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/DesafioIphone/DesafioIphone.iml" filepath="$PROJECT_DIR$/Desafios/DesafioIphone/DesafioIphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/DesafioSimulacaoBancaria/DesafioSimulacaoBancaria.iml" filepath="$PROJECT_DIR$/Desafios/DesafioSimulacaoBancaria/DesafioSimulacaoBancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Desafios/Iphone/Iphone.iml" filepath="$PROJECT_DIR$/Desafios/Iphone/Iphone.iml" />
     </modules>
   </component>
 </project>
